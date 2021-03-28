@@ -1,0 +1,27 @@
+.profile {
+    display: inline-block;
+    width: 300px;
+    margin: 15px 20px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 2px;
+    background-color: aliceblue;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.description {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.stats li {
+    list-style-type: none;
+}

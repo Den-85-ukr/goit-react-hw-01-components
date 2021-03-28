@@ -1,0 +1,10 @@
+.friendList {
+  width: 300px;
+  padding: 10px;
+
+  margin-left: 15px;
+  margin-bottom: 15px;
+
+  border: 1px solid gray;
+  background-color: aliceblue; 
+}
